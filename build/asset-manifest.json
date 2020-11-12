@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a343ebc5.chunk.css",
+    "main.js": "/static/js/main.6d9a4e64.chunk.js",
+    "main.js.map": "/static/js/main.6d9a4e64.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a42d6432.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a42d6432.js.map",
+    "static/js/2.3e274853.chunk.js": "/static/js/2.3e274853.chunk.js",
+    "static/js/2.3e274853.chunk.js.map": "/static/js/2.3e274853.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fd92877fe2993a847eb42b14673c1064.js": "/precache-manifest.fd92877fe2993a847eb42b14673c1064.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a343ebc5.chunk.css.map": "/static/css/main.a343ebc5.chunk.css.map",
+    "static/js/2.3e274853.chunk.js.LICENSE.txt": "/static/js/2.3e274853.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Background.bca70cfc.jpg",
+    "static/media/BlackNike.jpg": "/static/media/BlackNike.d130a41a.jpg",
+    "static/media/BlueSimple.jpg": "/static/media/BlueSimple.00479544.jpg",
+    "static/media/CutShoes.jpg": "/static/media/CutShoes.0b56bf9c.jpg",
+    "static/media/GrayShoes.jpg": "/static/media/GrayShoes.2675febc.jpg",
+    "static/media/LeatherShoe.jpg": "/static/media/LeatherShoe.552053b0.jpg",
+    "static/media/LoveJoggers.jpg": "/static/media/LoveJoggers.d498cdba.jpg",
+    "static/media/MenSportsShoes.jpg": "/static/media/MenSportsShoes.c2375148.jpg",
+    "static/media/MenWhiteNikeShoes.jpg": "/static/media/MenWhiteNikeShoes.1c9e5c81.jpg",
+    "static/media/MulticolorNike.jpg": "/static/media/MulticolorNike.ef754a1a.jpg",
+    "static/media/RainbowSports.jpg": "/static/media/RainbowSports.81d05a4c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a42d6432.js",
+    "static/js/2.3e274853.chunk.js",
+    "static/css/main.a343ebc5.chunk.css",
+    "static/js/main.6d9a4e64.chunk.js"
+  ]
+}
